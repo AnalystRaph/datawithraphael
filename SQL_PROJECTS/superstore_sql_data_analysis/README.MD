@@ -1,7 +1,9 @@
 Superstore Data Analysis SQL Project
+
 This project involves analyzing sales data from a Superstore dataset using MySQL. The dataset provides insights into customer behavior, sales trends, product performance, and profitability. The analysis is performed through SQL queries that focus on data cleaning, table creation, loading data, and in-depth exploratory data analysis (EDA).
 
 Project Overview
+
 Data Loading and Table Creation
 The superstore_sales table is created in MySQL with fields representing various sales, customer, and product attributes. Data is loaded from a CSV file using the LOAD DATA INFILE method, ensuring proper character encoding (UTF-8) and handling errors such as invalid character sets.
 
